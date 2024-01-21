@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+}
+.login-container{
+    display: flex;
+    height: 50vh;
+    width: 75%;
+    margin: auto;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+}
+.input{
+    padding: 5px 35px;
+    border: none;
+    margin: 10px;
+    box-shadow: 4px 4px 8px gray;
+    border-radius: 5px;
+}
+.login-title{
+    font-size: 44px;
+    color: aqua;
+    text-align: start;
+    margin: 25px;
+}

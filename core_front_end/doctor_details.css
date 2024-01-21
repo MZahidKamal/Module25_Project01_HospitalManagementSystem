@@ -1,0 +1,26 @@
+.doc-image img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+.doctor-details-container{
+    /*width: 75%;*/
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+    gap: 50px;
+}
+.doc-splz-btn{
+    background-color: aqua;
+    border: none;
+    border-radius: 10px;
+    color: black;
+}
+.doc-avt-btn{
+    background-color: gray;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+/*------------------------------------------------------------------------------------------------------------------------------*/
